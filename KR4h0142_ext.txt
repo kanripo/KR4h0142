@@ -1,0 +1,8 @@
+#+KEY: 御定歷代題畫詩類/御定歷代題畫詩類
+#+PROPERTY: JUAN 御定歷代題畫詩類
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01總集類
+#+PROPERTY: FW 集部,總集類,御定歷代題畫詩類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 御定歷代題畫詩類
+#+PROPERTY: ID ZB4c0138
